@@ -9,8 +9,60 @@ body{
 
 .header{
     background-color: black;
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+}
+
+.header-container{
+    background-color: black;
+}
+.header img{
+    width: 120px;
 }
 .header a{
     text-decoration: none;
 color: white;
+}
+.header ul{
+    display: inline-block ;
+    padding-left: 47%;
+}
+
+.header li{
+display: inline-block;
+padding-right: 50px;
+}
+
+.premium{
+    background-color:#1d75de;
+    color: white;
+    padding: 95px 200px;
+}
+.premium p{
+    padding-top: 30px;
+}
+.premium h1{
+    font-size: 40px;
+
+}
+.premium h2{
+    padding-top: 30px;
+    font-size: 24px;
+    margin-bottom: 30px;
+} 
+.button{
+    display: inline-block;
+    padding: 15px 30px;
+}
+#começe-agora{
+border: 2px solid black;
+border-radius: 100px;
+background-color: black;
+}
+
+#planos{
+    border: 2px solid white;
+    border-radius: 100px;
+
 }
