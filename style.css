@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-color: black;
+    width: 65%;
+    margin: auto;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.header-container{
+    background-color: black;
+}
+.header img{
+    width: 120px;
+    vertical-align: middle;
+    padding-left: 36px;
+}
+.header a{
+    text-decoration: none;
+color: white;
+}
+.header ul{
+    display: inline-block ;
+    padding-left: 47%;
+    font-weight:500;
+    font-weight: bold;
+}
+
+.header li{
+display: inline-block;
+padding-right: 50px;
+}
+.header ul li a:hover{
+    color: #1ed760;;
+}
+
+.premium{
+    background-color:#1d75de;
+    color: white;
+    padding: 120px 370px 25px;
+}
+.premium p{
+    padding-top: 30px;
+}
+.premium h1{
+    font-size: 40px;
+
+}
+.premium h2{
+    padding-top: 30px;
+    font-size: 24px;
+    margin-bottom: 30px;
+} 
+.button{
+    display: inline-block;
+    padding: 15px 30px;
+}
+#começe-agora{
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: black;
+}
+
+#planos{
+    border: 2px solid white;
+    border-radius: 100px;
+}
+.premium a{
+font-size: 11px;
+
+}
+ 
+#começe-agora:hover, #planos:hover{
+    transform: scale(1.03);
+}
+
+.why-premium{
+    text-align: center;
+    padding: 80px 130px;
+}
+
+.why-premium div{
+display: inline-block;
+padding: 30px;
+}
+
+.why-premium h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+.why-premium img{
+    width: 142px;
+    margin-bottom: 30px;
+}
+.texto1{
+    font-weight: bold;
+    padding-bottom: 17px;
+    font-size: 20px;
+}
+.choose-plans{
+    background-color: #efefef;
+    padding: 80px 100px;
+    text-align: center;
+}
+
+.choose-plans h2{
+    font-size: 35px;
+    padding-bottom: 7px;
+}
