@@ -81,3 +81,37 @@ font-size: 11px;
 #começe-agora:hover, #planos:hover{
     transform: scale(1.03);
 }
+
+.why-premium{
+    text-align: center;
+    padding: 80px 130px;
+}
+
+.why-premium div{
+display: inline-block;
+padding: 30px;
+}
+
+.why-premium h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+.why-premium img{
+    width: 142px;
+    margin-bottom: 30px;
+}
+.texto1{
+    font-weight: bold;
+    padding-bottom: 17px;
+    font-size: 20px;
+}
+.choose-plans{
+    background-color: #efefef;
+    padding: 80px 100px;
+    text-align: center;
+}
+
+.choose-plans h2{
+    font-size: 35px;
+    padding-bottom: 7px;
+}
